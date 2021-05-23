@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: snow;
+  text-align: center;
+}
+
+.menor {
+  color: tomato;
+}
+
+.mayor {
+  color: royalblue;
+}
+
+button {
+  margin: 0 0.5rem;
+}
+
+.colorboton {
+  background-color: rgb(51, 0, 255);
+  color: white;
+}
